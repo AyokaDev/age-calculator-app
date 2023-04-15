@@ -29,5 +29,5 @@ What I was expected to do:
 - **Bonus**: See the age numbers animate to their final number when the form is submitted
 
 [Link to Live web]
-- [GitHub live web](https://pages.github.com/)
+- [GitHub live web](https://ayokadev.github.io/age-calculator-app/)
 - [Netlify](https://www.netlify.com/)
